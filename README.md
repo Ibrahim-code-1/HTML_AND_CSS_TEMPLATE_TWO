@@ -1,4 +1,4 @@
-# HTML_AND_CSS_TEMPLATE_ONE
+# HTML_AND_CSS_TEMPLATE_TWO
 [Click here to see the page](https://ibrahim-code-1.github.io/HTML_AND_CSS_TEMPLATE_TWO/)
 ## About:
 - Redesigned from psd file.
