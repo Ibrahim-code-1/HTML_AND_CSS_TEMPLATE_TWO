@@ -3,7 +3,7 @@
 ## About:
 - Redesigned from psd file.
 - Followed this [course](https://youtu.be/heuDmrEAgUA?si=HM1yUO9vtrOGmKVX)
-- Source: [Graphberry-Leon](https://www.graphberry.com/item/kasper-one-page-psd-template) :shipit:
+- Source: [Graphberry-Kasper](https://www.graphberry.com/item/kasper-one-page-psd-template) :shipit:
   ### Technologies :
   - HTML5.
   - CSS3.
